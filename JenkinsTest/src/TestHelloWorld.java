@@ -1,4 +1,3 @@
-import org.junit.runner.JUnitCore;
 import org.junit.Assert;
 import org.junit.Test;
 
